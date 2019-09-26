@@ -1,3 +1,45 @@
-[
-    
-]
+{
+    "clients": [
+        {
+            "end_customer": "AG Insurance",
+            "location": "Brussels",
+            "started": "2018-03-10",
+            "ended": "2020-03-31",
+            "function": ".Net and Angular technical lead developer",
+            "via": "3D ICT",
+            "projects":
+            [
+                {
+                    "name": "Event Registration",
+                    "description": "subscribtion/reservation application for events organized by AG Insurance, the web application allowed the user to reserve a 'time slot' for a car body repair event.",
+                    "technologies": [ "ASP.NET MVC", "MS Test", "Unity" ]
+                },
+                {
+                    "name": "AG Webtemplate",
+                    "description": "a redo in Angular of the existing ASP.NET MVC Webtemplate, bringing over all flexibility and configuration features existing in the MVC version.",
+                    "technologies": [ "Angular", "Typescript" ]
+                },
+                {
+                    "name": "Customer 360",
+                    "description": "intranet web application to answer the question 'which customer has what insurance products and/or claims at AG Insurance ?'.  This application had a big visibility to the upper management, above that it was the first 'agile' project at AG Insurance, it was a big success.",
+                    "technologies": [ "Angular", "Typescript", "Unit Tests", "JSON", "Scrum" ]
+                },
+                {
+                    "name": "IIS10 Migration tool",
+                    "description": "small CLI tool to update the web.configs and *.cs files so that existing applications could migrate to new servers.",
+                    "technologies": [ "C#", "Akka.net" ]
+                }
+                {
+                    "name": "AG Online Bonus Modulis",
+                    "description": "new 'flow' (= part) in the AG Online application that brokers and end customers use.  It allowed customers to choose where they wanted their bonus to be paid.",
+                    "technologies": [ "ASP.NET MVC", "MS Test", "Unity" ]
+                },
+                {
+                    "name": "EMC Claims 2.0",
+                    "description": "web application that allows brokers to to file a claim of a car accident",
+                    "technologies": [ "ASP.NET MVC", "MS Test", "Unity" ]
+                }
+            ]
+        }
+    ]    
+}
