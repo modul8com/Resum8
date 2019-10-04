@@ -7,6 +7,7 @@
             "ended": "2020-03-31",
             "function": ".Net and Angular technical lead developer",
             "via": "3D ICT",
+            "note": "",
             "projects":
             [
                 {
@@ -31,7 +32,7 @@
                 }
                 {
                     "name": "AG Online Bonus Modulis",
-                    "description": "new 'flow' (= part) in the AG Online application that brokers and end customers use.  It allowed customers to choose where they wanted their bonus to be paid.",
+                    "description": "new 'flow' (= part) in the AG Online application that end customers use to check up on a bonus, and to choose where they wanted their bonus to be paid.",
                     "technologies": [ "ASP.NET MVC", "MS Test", "Unity" ]
                 },
                 {
@@ -40,6 +41,50 @@
                     "technologies": [ "ASP.NET MVC", "MS Test", "Unity" ]
                 }
             ]
-        }
+        },
+        {
+            "end_customer": "Baloise",
+            "location": "Berchem, Antwerpen",
+            "started": "2018-02-01",
+            "ended": "2018-02-28",
+            "function": ".Net developer",
+            "via": "3D ICT",
+            "note": "Left the company/assignment early, because all 3 'big' projects where I should work on were postponed for several months, and because of that I felt I was wasting their budget.",
+            "projects":
+            [
+                {
+                    "name": "Intake Web Quoter",
+                    "description": "We needed to 'take in' a web project – which was developed by a third party.  I had to reorganize things, and prepare everything so it could be auto deployed.",
+                    "technologies": [ "ASP.NET MVC", "Azure Dev Ops" ]
+                },
+                {
+                    "name": "Document Manager",
+                    "description": "Created a proof of concept that you could host a Web API and an OData API and a WCF Service all in the same project.",
+                    "technologies": [ "ASP.NET Web API", "C#" ]
+                }
+            ]
+        },
+        {
+            "end_customer": "Baloise",
+            "location": "Zaventem",
+            "started": "2018-01-22",
+            "ended": "2018-01-31",
+            "function": ".Net developer",
+            "via": "3D ICT",
+            "note": "Left the company/assignment early, because all 3 'big' projects where I should work on were postponed for several months, and because of that I felt I was wasting their budget.",
+            "projects":
+            [
+                {
+                    "name": "Intake Web Quoter",
+                    "description": "We needed to 'take in' a web project – which was developed by a third party.  I had to reorganize things, and prepare everything so it could be auto deployed.",
+                    "technologies": [ "ASP.NET MVC", "Azure Dev Ops" ]
+                },
+                {
+                    "name": "Document Manager",
+                    "description": "Created a proof of concept that you could host a Web API and an OData API and a WCF Service all in the same project.",
+                    "technologies": [ "ASP.NET Web API", "C#" ]
+                }
+            ]
+        },
     ]    
 }
