@@ -1,0 +1,179 @@
+{
+    "personal" : 
+    {
+        "firstname": "Michael",
+        "lastname": "Bruyninckx",
+        "residence": "Groene Laan 5, Willebroek, Belgium",
+        "nationality": "Belgian",
+        "email": "michael@modul8.com",
+        "phone": "+32 486 89 77 42",
+        "birthdate": "JUNE 20th, 1975",
+        "place_of_birth": "Euskirchen, Duitsland",
+        "family_state": "Divorced",
+        "children": "1 daughter",
+        "experienced": "24 years, since October 5th 1995",
+        "languages": [
+            { "language": "Nederlands", "skill_level": "moedertaal" },
+            { "language": "Francais", "skill_level": "ex-marie était une Francophone d’Anderlecht" },
+            { "language": "English", "skill_level": "very well, I work in software development, often used as neutral language in BE" },
+            { "language": "Deutsch", "skill_level": "Sprache der Mutter – geboren und gewohnt in der Nähe von Euskirchen" }
+        ],
+        "availabile": "April 1st 2020",
+        "picture": "",
+        "recognitions": "",
+        "profile_summary": [
+            "Michael has 24 years of experience in development, analysis, small team and project management of thin- (HTML, JavaScript, ASP, ASP.net (core), CSS) and fat-client (WPF, WinForms) applications using Microsoft development tools.",
+            "His background as website and web application developer makes him an excellent alround application developer.  While he was a business owner, of the companies Fusebox (2004-2010) and more recently Cherimoya.be (2017-2018), he was a good business analyst, technical project manager, team leader and dot net developer.",
+            "Throughout his career he has obtained good inter-personal and communication skills, coupled with a strong desire to achieve the requirements and goals of the projects or company objectives he has worked within.",
+            "During his co-ownership of Fusebox – a small software development company that mainly built custom web applications – he was well known for his professionalism towards customers and team members.  He successfully rolled out projects (mostly in time and budget) which lead to great customer satisfaction.  He was also responsible for a development team of 8 developers.",
+            "During his more recent co-ownership of Cherimoya.be – a small software development company that focusses on the Travel Industry – he developed a worldwide unique application that enlarges the margins gained on flight tickets… a real money cow for our customers as well as Cherimoya.be.",
+            "In his spare time he loves to research new things in dot net and JavaScript world."
+        ],
+        "professional_skills_interests": [
+            "Follows the newest developments on Javascript (Angular, Aurelia, React, Typescript) and .NET (XAML, WCF, WPF, WebAPI, MVC, MVVM, Entity Framework, etc)",
+            "Believes that new technology will make developers happier, which will result in better user experiences",
+            "Technical project management and coaching team members",
+            "Strong thin and fat client application development skills",
+            "Has a lot of patience",
+            "Believes that open communication and honesty are crucial to success"
+        ],
+        "relevant_education": [
+            { "year": 1999, "school": "Cobraz", "city": "Hoboken", "degree": "Bachelor Toegepaste Informatica", "note": "graduated with distinction" },
+            { "year": 1993, "school": "Stedelijk instituut voor secundair onderwijs", "city": "Berchem", "degree": "TSO Boekhouden – Informatica", "note": "qualification exams: Typewriting & Accountancy + Price for Best German student of the province of Antwerp" }
+        ],
+        "other_education": [
+            "Pluralsight subscriber since 2011",
+            "Travel Tech – London 2016",
+            "MIC Brussels: Call for Windows 8 Metro Style Apps: UX Session (May 14 2012)",
+            "MIC Brussels: Call for Windows 8 Metro Style Apps: Hands on Sessions (April 16 & 17 2012)",
+            "Microsoft Windows 8 Developer Day & Night – (March 23 2012)",
+            "Microsoft Belgium: Tech Days 2010",
+            "Microsoft Belgium: Tech Days 2005",
+            "U2U: 21 days training for MCSD.NET certification – never did the certification exams",
+            "Microsoft Belgium: 2 days training on ASP.NET",
+            "Microsoft Belgium: 5 days: Masterclass building .NET applications using Visual Studio .NET"
+        ]
+    },
+    "skills":
+    [
+        { "skill" : "(T)-SQL", "level": "excellent", "experience": "1998" },
+        { "skill" : "ADO.NET", "level": "excellent", "experience": "2006" },
+        { "skill" : "Internet Information Server (IIS)", "level": "excellent", "experience": "1999" },
+        { "skill" : "JavaScript", "level": "excellent", "experience": "1999" },
+        { "skill" : "JQuery", "level": "excellent", "experience": "2012" },
+        { "skill" : "AngularJS", "level": "excellent", "experience": "2" },
+        { "skill" : "Angular 6/7", "level": "excellent", "experience": "2017" },
+        { "skill" : "React.js", "level": "excellent", "experience": "1" },
+        { "skill" : "Active Server Pages (ASP)", "level": "excellent", "experience": "4" },
+        { "skill" : "ASP.NET", "level": "excellent", "experience": "2002" },
+        { "skill" : "ASP.NET MVC", "level": "excellent", "experience": "2012" },
+        { "skill" : "C#", "level": "excellent", "experience": "2000" },
+        { "skill" : "Entity Framework", "level": "excellent", "experience": "2008" },
+        { "skill" : "Microsoft LINQ", "level": "excellent", "experience": "2009" },
+        { "skill" : "Microsoft Office Visio", "level": "good", "experience": "3" },
+        { "skill" : "Microsoft SQL Server", "level": "excellent", "experience": "1995" },
+        { "skill" : "Microsoft Team Foundation Server", "level": "excellent", "experience": "2005" },
+        { "skill" : "Microsoft Visual Studio Online", "level": "excellent", "experience": "2008" },
+        { "skill" : "Microsoft Visual Studio", "level": "excellent", "experience": "1998" },
+        { "skill" : "Microsoft WCF", "level": "good", "experience": "3" },
+        { "skill" : "Microsoft Windows NT/20xx", "level": "excellent", "experience": "1996" },
+        { "skill" : "Microsoft WPF", "level": "excellent", "experience": "3" },
+        { "skill" : "MVVMLight", "level": "excellent", "experience": "3" },
+        { "skill" : "nServiceBus", "level": "good", "experience": "1" },
+        { "skill" : "PostSharp", "level": "excellent", "experience": "2" },
+        { "skill" : "Rest Services", "level": "excellent", "experience": "2010" },
+        { "skill" : "Unit Testing", "level": "excellent", "experience": "2015" },
+        { "skill" : "User Interface Design", "level": "excellent", "experience": "1997" },
+        { "skill" : "HTML", "level": "excellent", "experience": "1995" },
+        { "skill" : "CSS", "level": "excellent", "experience": "1996" },
+        { "skill" : "XML", "level": "excellent", "experience": "2000" },
+        { "skill" : "XSL(T)", "level": "good", "experience": "3" },
+        { "skill" : "Methodology: MVVM", "level": "excellent", "experience": "3" },
+        { "skill" : "Methodology: Scrum", "level": "excellent", "experience": "2016" },
+        { "skill" : "Azure CosmoDB", "level": "excellent", "experience": "2" },
+        { "skill" : "Azure", "level": "excellent", "experience": "2016" }
+    ],
+    "clients": [
+        {
+            "end_customer": "AG Insurance",
+            "location": "Brussels",
+            "started": "2018-03-10",
+            "ended": "2020-03-31",
+            "function": ".Net and Angular technical lead developer",
+            "via": "3D ICT",
+            "note": "",
+            "projects":
+            [
+                {
+                    "name": "Event Registration",
+                    "description": "subscribtion/reservation application for events organized by AG Insurance, the web application allowed the user to reserve a 'time slot' for a car body repair event.",
+                    "technologies": [ "ASP.NET MVC", "MS Test", "Unity" ]
+                },
+                {
+                    "name": "AG Webtemplate",
+                    "description": "a redo in Angular of the existing ASP.NET MVC Webtemplate, bringing over all flexibility and configuration features existing in the MVC version.",
+                    "technologies": [ "Angular", "Typescript" ]
+                },
+                {
+                    "name": "Customer 360",
+                    "description": "intranet web application to answer the question 'which customer has what insurance products and/or claims at AG Insurance ?'.  This application had a big visibility to the upper management, above that it was the first 'agile' project at AG Insurance, it was a big success.",
+                    "technologies": [ "Angular", "Typescript", "Unit Tests", "JSON", "Scrum" ]
+                },
+                {
+                    "name": "IIS10 Migration tool",
+                    "description": "small CLI tool to update the web.configs and *.cs files so that existing applications could migrate to new servers.",
+                    "technologies": [ "C#", "Akka.net" ]
+                },
+                {
+                    "name": "AG Online Bonus Modulis",
+                    "description": "new 'flow' (= part) in the AG Online application that end customers use to check up on a bonus, and to choose where they wanted their bonus to be paid.",
+                    "technologies": [ "ASP.NET MVC", "MS Test", "Unity" ]
+                },
+                {
+                    "name": "EMC Claims 2.0",
+                    "description": "web application that allows brokers to to file a claim of a car accident",
+                    "technologies": [ "ASP.NET MVC", "MS Test", "Unity" ]
+                }
+            ]
+        },
+        {
+            "end_customer": "Baloise",
+            "location": "Berchem, Antwerpen",
+            "started": "2018-02-01",
+            "ended": "2018-02-28",
+            "function": ".Net developer",
+            "via": "3D ICT",
+            "note": "Left the company/assignment early, because all 3 'big' projects where I should work on were postponed for several months, and because of that I felt I was wasting their budget.",
+            "projects":
+            [
+                {
+                    "name": "Intake Web Quoter",
+                    "description": "We needed to 'take in' a web project – which was developed by a third party.  I had to reorganize things, and prepare everything so it could be auto deployed.",
+                    "technologies": [ "ASP.NET MVC", "C#", "Azure Dev Ops" ]
+                },
+                {
+                    "name": "Document Manager",
+                    "description": "Created a proof of concept that you could host a Web API and an OData API and a WCF Service all in the same project.",
+                    "technologies": [ "ASP.NET Web API", "C#" ]
+                }
+            ]
+        },
+        {
+            "end_customer": "Econocom",
+            "location": "Zaventem",
+            "started": "2018-01-22",
+            "ended": "2018-01-31",
+            "function": ".Net developer",
+            "via": "Econocom",
+            "note": "A friend who works at Econocom needed a hand on a project, I helped him during 10 days, where I could successfully produce a parser for the ABB Rapid language, unfortunatly I had to start at another project which I already had signed.",
+            "projects":
+            [
+                {
+                    "name": "ABB Visual IDE – Proof of Concept",
+                    "description": "The Visual IDE should dumb down the ABB Rapid language so that regular robot controller personnel could update the 'program'.  I created the parser for the ABB Rapid language using Antlr, this resulted in a json array so that the UI guys could generate the correct UI objects.",
+                    "technologies": [ "C#", "Azure Dev Ops", "Antlr" ]
+                }
+            ]
+        }
+    ]
+}
