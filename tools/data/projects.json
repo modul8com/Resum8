@@ -1,6 +1,7 @@
 {
     "clients": [
         {
+            "id": "6a9376fa-af40-4a76-af65-7e2e590c09d3",
             "end_customer": "AG Insurance",
             "location": "Brussels",
             "started": "2018-03-10",
@@ -11,31 +12,37 @@
             "projects":
             [
                 {
+                    "id": "c8bee1d7-5df8-4a1a-91d7-c0ec07e99ba4",
                     "name": "Event Registration",
                     "description": "subscribtion/reservation application for events organized by AG Insurance, the web application allowed the user to reserve a 'time slot' for a car body repair event.",
                     "technologies": [ "ASP.NET MVC", "MS Test", "Unity" ]
                 },
                 {
+                    "id": "89d8e5e1-8bcf-43ef-8570-648a6b9caa94",
                     "name": "AG Webtemplate",
                     "description": "a redo in Angular of the existing ASP.NET MVC Webtemplate, bringing over all flexibility and configuration features existing in the MVC version.",
                     "technologies": [ "Angular", "Typescript" ]
                 },
                 {
+                    "id": "a76c8c0a-8b87-48a2-aad8-464d4809a82c",
                     "name": "Customer 360",
                     "description": "intranet web application to answer the question 'which customer has what insurance products and/or claims at AG Insurance ?'.  This application had a big visibility to the upper management, above that it was the first 'agile' project at AG Insurance, it was a big success.",
                     "technologies": [ "Angular", "Typescript", "Unit Tests", "JSON", "Scrum" ]
                 },
                 {
+                    "id": "6bd367fb-11c0-4581-957f-8845e3a35220",
                     "name": "IIS10 Migration tool",
                     "description": "small CLI tool to update the web.configs and *.cs files so that existing applications could migrate to new servers.",
                     "technologies": [ "C#", "Akka.net" ]
-                }
+                },
                 {
+                    "id": "a09e8c6e-61f3-4781-aac8-1fffd867b235",
                     "name": "AG Online Bonus Modulis",
                     "description": "new 'flow' (= part) in the AG Online application that end customers use to check up on a bonus, and to choose where they wanted their bonus to be paid.",
                     "technologies": [ "ASP.NET MVC", "MS Test", "Unity" ]
                 },
                 {
+                    "id": "e8bff6d2-f19a-440b-8334-64170a0a2477",
                     "name": "EMC Claims 2.0",
                     "description": "web application that allows brokers to to file a claim of a car accident",
                     "technologies": [ "ASP.NET MVC", "MS Test", "Unity" ]
@@ -43,6 +50,7 @@
             ]
         },
         {
+            "id": "ae70c9f1-7427-484c-890d-055994dc9975",
             "end_customer": "Baloise",
             "location": "Berchem, Antwerpen",
             "started": "2018-02-01",
@@ -53,11 +61,13 @@
             "projects":
             [
                 {
+                    "id": "60aed8ee-cf15-4fcd-92e6-aa2dc9a0c41e",
                     "name": "Intake Web Quoter",
                     "description": "We needed to 'take in' a web project – which was developed by a third party.  I had to reorganize things, and prepare everything so it could be auto deployed.",
-                    "technologies": [ "ASP.NET MVC", "Azure Dev Ops" ]
+                    "technologies": [ "ASP.NET MVC", "C#", "Azure Dev Ops" ]
                 },
                 {
+                    "id": "1ec57fed-99c8-4c12-9446-c019ddb1d878",
                     "name": "Document Manager",
                     "description": "Created a proof of concept that you could host a Web API and an OData API and a WCF Service all in the same project.",
                     "technologies": [ "ASP.NET Web API", "C#" ]
@@ -65,6 +75,7 @@
             ]
         },
         {
+            "id": "23b5261d-80fa-4085-9d85-6028be9b12e1",
             "end_customer": "Econocom",
             "location": "Zaventem",
             "started": "2018-01-22",
@@ -75,11 +86,12 @@
             "projects":
             [
                 {
+                    "id": "93bc7179-9502-4e7d-a9af-8a5a2c4f58f5",
                     "name": "ABB Visual IDE – Proof of Concept",
                     "description": "The Visual IDE should dumb down the ABB Rapid language so that regular robot controller personnel could update the 'program'.  I created the parser for the ABB Rapid language using Antlr, this resulted in a json array so that the UI guys could generate the correct UI objects.",
                     "technologies": [ "C#", "Azure Dev Ops", "Antlr" ]
                 }
             ]
         }
-    ]    
+    ]
 }

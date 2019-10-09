@@ -56,45 +56,46 @@
     },
     "skills":
     [
-        { "skill" : "(T)-SQL", "level": "excellent", "experience": "1998" },
-        { "skill" : "ADO.NET", "level": "excellent", "experience": "2006" },
-        { "skill" : "Internet Information Server (IIS)", "level": "excellent", "experience": "1999" },
-        { "skill" : "JavaScript", "level": "excellent", "experience": "1999" },
-        { "skill" : "JQuery", "level": "excellent", "experience": "2012" },
-        { "skill" : "AngularJS", "level": "excellent", "experience": "2" },
-        { "skill" : "Angular 6/7", "level": "excellent", "experience": "2017" },
-        { "skill" : "React.js", "level": "excellent", "experience": "1" },
-        { "skill" : "Active Server Pages (ASP)", "level": "excellent", "experience": "4" },
-        { "skill" : "ASP.NET", "level": "excellent", "experience": "2002" },
-        { "skill" : "ASP.NET MVC", "level": "excellent", "experience": "2012" },
-        { "skill" : "C#", "level": "excellent", "experience": "2000" },
-        { "skill" : "Entity Framework", "level": "excellent", "experience": "2008" },
-        { "skill" : "Microsoft LINQ", "level": "excellent", "experience": "2009" },
-        { "skill" : "Microsoft Office Visio", "level": "good", "experience": "3" },
-        { "skill" : "Microsoft SQL Server", "level": "excellent", "experience": "1995" },
-        { "skill" : "Microsoft Team Foundation Server", "level": "excellent", "experience": "2005" },
-        { "skill" : "Microsoft Visual Studio Online", "level": "excellent", "experience": "2008" },
-        { "skill" : "Microsoft Visual Studio", "level": "excellent", "experience": "1998" },
-        { "skill" : "Microsoft WCF", "level": "good", "experience": "3" },
-        { "skill" : "Microsoft Windows NT/20xx", "level": "excellent", "experience": "1996" },
-        { "skill" : "Microsoft WPF", "level": "excellent", "experience": "3" },
-        { "skill" : "MVVMLight", "level": "excellent", "experience": "3" },
-        { "skill" : "nServiceBus", "level": "good", "experience": "1" },
-        { "skill" : "PostSharp", "level": "excellent", "experience": "2" },
-        { "skill" : "Rest Services", "level": "excellent", "experience": "2010" },
-        { "skill" : "Unit Testing", "level": "excellent", "experience": "2015" },
-        { "skill" : "User Interface Design", "level": "excellent", "experience": "1997" },
-        { "skill" : "HTML", "level": "excellent", "experience": "1995" },
-        { "skill" : "CSS", "level": "excellent", "experience": "1996" },
-        { "skill" : "XML", "level": "excellent", "experience": "2000" },
-        { "skill" : "XSL(T)", "level": "good", "experience": "3" },
-        { "skill" : "Methodology: MVVM", "level": "excellent", "experience": "3" },
-        { "skill" : "Methodology: Scrum", "level": "excellent", "experience": "2016" },
-        { "skill" : "Azure CosmoDB", "level": "excellent", "experience": "2" },
-        { "skill" : "Azure", "level": "excellent", "experience": "2016" }
+        { "id": "3c8705e2-c6ea-4c48-b0ec-0c3cd475ebda", "skill" : "(T)-SQL", "level": "excellent", "experience": "1998" },
+        { "id": "d1bfb14d-f9e4-4c9e-a0d1-3fedfc5c0d6f", "skill" : "ADO.NET", "level": "excellent", "experience": "2006" },
+        { "id": "b612037c-d418-4b2e-95b3-6fb0c930d236", "skill" : "Internet Information Server (IIS)", "level": "excellent", "experience": "1999" },
+        { "id": "76a3936e-a88e-48b0-99d6-c388aa0cc2ca", "skill" : "JavaScript", "level": "excellent", "experience": "1999" },
+        { "id": "97049dde-75a3-4327-9a7d-ed930d5ff1ce", "skill" : "JQuery", "level": "excellent", "experience": "2012" },
+        { "id": "e140177c-fb88-4c78-a8f6-e06049b880f6", "skill" : "AngularJS", "level": "excellent", "experience": "2" },
+        { "id": "a963eed2-5f48-4c54-b6bb-a462ff51e3c2", "skill" : "Angular 6/7", "level": "excellent", "experience": "2017" },
+        { "id": "ae5fb6f8-d44e-47af-b3e1-da61b4a2e3e8", "skill" : "React.js", "level": "excellent", "experience": "1" },
+        { "id": "ad4bdc6b-21a6-48e6-a040-125668f98f59", "skill" : "Active Server Pages (ASP)", "level": "excellent", "experience": "4" },
+        { "id": "0ff97a57-8fdd-4105-b672-712224acfe64", "skill" : "ASP.NET", "level": "excellent", "experience": "2002" },
+        { "id": "268fe6d3-7dae-4593-a8fc-fea4c0895c4c", "skill" : "ASP.NET MVC", "level": "excellent", "experience": "2012" },
+        { "id": "d5a21530-087c-48e9-b3d3-b688750847cd", "skill" : "C#", "level": "excellent", "experience": "2000" },
+        { "id": "8f8251da-8a41-466e-92eb-f244b20a4d88", "skill" : "Entity Framework", "level": "excellent", "experience": "2008" },
+        { "id": "6e074fa9-d0f5-4d4f-9cd1-ec50829550dd", "skill" : "Microsoft LINQ", "level": "excellent", "experience": "2009" },
+        { "id": "8bb6120b-1a8e-46f4-bb1d-67797293fdd9", "skill" : "Microsoft Office Visio", "level": "good", "experience": "3" },
+        { "id": "9eaebdf9-a0ca-4707-b8d7-9effb0f1b798", "skill" : "Microsoft SQL Server", "level": "excellent", "experience": "1995" },
+        { "id": "995a4a57-a976-4d15-b0c6-250bbb0b48ac", "skill" : "Microsoft Team Foundation Server", "level": "excellent", "experience": "2005" },
+        { "id": "d5baf966-f156-42d1-8d51-7c06615cbbf2", "skill" : "Microsoft Visual Studio Online", "level": "excellent", "experience": "2008" },
+        { "id": "22a52e30-e200-4e7f-a081-1a46bd8e4d28", "skill" : "Microsoft Visual Studio", "level": "excellent", "experience": "1998" },
+        { "id": "97e92c9a-6d1f-4127-9136-d7590730f279", "skill" : "Microsoft WCF", "level": "good", "experience": "3" },
+        { "id": "b2f66fe7-2705-4b5d-8792-03986e52e803", "skill" : "Microsoft Windows NT/20xx", "level": "excellent", "experience": "1996" },
+        { "id": "5fe23a10-3551-46c6-a5c2-14270fa9c7cc", "skill" : "Microsoft WPF", "level": "excellent", "experience": "3" },
+        { "id": "6335e42c-44b9-441c-9747-4c6445584829", "skill" : "MVVMLight", "level": "excellent", "experience": "3" },
+        { "id": "56922ad3-6cbb-4b68-b05f-24e037831a89", "skill" : "nServiceBus", "level": "good", "experience": "1" },
+        { "id": "25bb9f3c-e9c2-4e47-b125-f652645738d8", "skill" : "PostSharp", "level": "excellent", "experience": "2" },
+        { "id": "8b2de027-b18c-4f3a-81cb-43584d4efe1e", "skill" : "Rest Services", "level": "excellent", "experience": "2010" },
+        { "id": "8ce48b56-657d-482b-a4a9-fe10b2c8e414", "skill" : "Unit Testing", "level": "excellent", "experience": "2015" },
+        { "id": "527ece34-454a-4811-8b7e-cf7e8a4d144b", "skill" : "User Interface Design", "level": "excellent", "experience": "1997" },
+        { "id": "40ba7eca-0e2e-4706-8a01-3a539c99e49d", "skill" : "HTML", "level": "excellent", "experience": "1995" },
+        { "id": "5908aadd-4ac2-4766-b5cf-1706d3695578", "skill" : "CSS", "level": "excellent", "experience": "1996" },
+        { "id": "575ceec8-a67e-45e5-b498-d332fa2e92df", "skill" : "XML", "level": "excellent", "experience": "2000" },
+        { "id": "ec1eec99-5fe3-4657-85b3-511d54c670f2", "skill" : "XSL(T)", "level": "good", "experience": "3" },
+        { "id": "a9f65c9b-b803-400e-b55d-2b0fd25278e6", "skill" : "Methodology: MVVM", "level": "excellent", "experience": "3" },
+        { "id": "312e0de8-dec6-40f1-aaea-811316000605", "skill" : "Methodology: Scrum", "level": "excellent", "experience": "2016" },
+        { "id": "ae053c5a-d751-43ec-8f51-239c5132a700", "skill" : "Azure CosmoDB", "level": "excellent", "experience": "2" },
+        { "id": "19d474ab-94e4-4e5f-b897-0127033fa29a", "skill" : "Azure", "level": "excellent", "experience": "2016" }
     ],
     "clients": [
         {
+            "id": "6a9376fa-af40-4a76-af65-7e2e590c09d3",
             "end_customer": "AG Insurance",
             "location": "Brussels",
             "started": "2018-03-10",
@@ -105,31 +106,37 @@
             "projects":
             [
                 {
+                    "id": "c8bee1d7-5df8-4a1a-91d7-c0ec07e99ba4",
                     "name": "Event Registration",
                     "description": "subscribtion/reservation application for events organized by AG Insurance, the web application allowed the user to reserve a 'time slot' for a car body repair event.",
                     "technologies": [ "ASP.NET MVC", "MS Test", "Unity" ]
                 },
                 {
+                    "id": "89d8e5e1-8bcf-43ef-8570-648a6b9caa94",
                     "name": "AG Webtemplate",
                     "description": "a redo in Angular of the existing ASP.NET MVC Webtemplate, bringing over all flexibility and configuration features existing in the MVC version.",
                     "technologies": [ "Angular", "Typescript" ]
                 },
                 {
+                    "id": "a76c8c0a-8b87-48a2-aad8-464d4809a82c",
                     "name": "Customer 360",
                     "description": "intranet web application to answer the question 'which customer has what insurance products and/or claims at AG Insurance ?'.  This application had a big visibility to the upper management, above that it was the first 'agile' project at AG Insurance, it was a big success.",
                     "technologies": [ "Angular", "Typescript", "Unit Tests", "JSON", "Scrum" ]
                 },
                 {
+                    "id": "6bd367fb-11c0-4581-957f-8845e3a35220",
                     "name": "IIS10 Migration tool",
                     "description": "small CLI tool to update the web.configs and *.cs files so that existing applications could migrate to new servers.",
                     "technologies": [ "C#", "Akka.net" ]
                 },
                 {
+                    "id": "a09e8c6e-61f3-4781-aac8-1fffd867b235",
                     "name": "AG Online Bonus Modulis",
                     "description": "new 'flow' (= part) in the AG Online application that end customers use to check up on a bonus, and to choose where they wanted their bonus to be paid.",
                     "technologies": [ "ASP.NET MVC", "MS Test", "Unity" ]
                 },
                 {
+                    "id": "e8bff6d2-f19a-440b-8334-64170a0a2477",
                     "name": "EMC Claims 2.0",
                     "description": "web application that allows brokers to to file a claim of a car accident",
                     "technologies": [ "ASP.NET MVC", "MS Test", "Unity" ]
@@ -137,6 +144,7 @@
             ]
         },
         {
+            "id": "ae70c9f1-7427-484c-890d-055994dc9975",
             "end_customer": "Baloise",
             "location": "Berchem, Antwerpen",
             "started": "2018-02-01",
@@ -147,11 +155,13 @@
             "projects":
             [
                 {
+                    "id": "60aed8ee-cf15-4fcd-92e6-aa2dc9a0c41e",
                     "name": "Intake Web Quoter",
                     "description": "We needed to 'take in' a web project – which was developed by a third party.  I had to reorganize things, and prepare everything so it could be auto deployed.",
                     "technologies": [ "ASP.NET MVC", "C#", "Azure Dev Ops" ]
                 },
                 {
+                    "id": "1ec57fed-99c8-4c12-9446-c019ddb1d878",
                     "name": "Document Manager",
                     "description": "Created a proof of concept that you could host a Web API and an OData API and a WCF Service all in the same project.",
                     "technologies": [ "ASP.NET Web API", "C#" ]
@@ -159,6 +169,7 @@
             ]
         },
         {
+            "id": "23b5261d-80fa-4085-9d85-6028be9b12e1",
             "end_customer": "Econocom",
             "location": "Zaventem",
             "started": "2018-01-22",
@@ -169,6 +180,7 @@
             "projects":
             [
                 {
+                    "id": "93bc7179-9502-4e7d-a9af-8a5a2c4f58f5",
                     "name": "ABB Visual IDE – Proof of Concept",
                     "description": "The Visual IDE should dumb down the ABB Rapid language so that regular robot controller personnel could update the 'program'.  I created the parser for the ABB Rapid language using Antlr, this resulted in a json array so that the UI guys could generate the correct UI objects.",
                     "technologies": [ "C#", "Azure Dev Ops", "Antlr" ]
