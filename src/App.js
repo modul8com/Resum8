@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import Profile from './components/Profile';
 import './App.css';
 
 function App() {
@@ -10,14 +10,30 @@ function App() {
         <h3>Your web developper since 1995</h3>
       </header>
       <nav>
-        <h2>
-          <a href="#profile">Profile</a> | 
-          <a href="#experiences">Experiences</a> | 
-          <a href="#skills">Skills</a> | 
-          <a href="#contact">Contact</a>
-        </h2>
+        <div className="row">
+          <div className="col-sm-3 col-xs-12">
+            <h2>
+              <a href="#profile">Profile</a>
+            </h2>  
+          </div>
+          <div className="col-sm-3 col-xs-12">
+            <h2>
+              <a href="#experiences">Experiences</a> {" "}
+            </h2>  
+          </div>
+          <div className="col-sm-3 col-xs-12">
+            <h2>
+              <a href="#skills">Skills</a> {" "}
+            </h2>  
+          </div>
+          <div className="col-sm-3 col-xs-12">
+            <h2>
+              <a href="#contact">Contact</a>
+            </h2>  
+          </div>
+        </div>
       </nav>
-      <a name="profile" href="#"></a>
+      <Profile></Profile>
     </div>
   );
 }

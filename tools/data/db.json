@@ -7,8 +7,8 @@
         "nationality": "Belgian",
         "email": "michael@modul8.com",
         "phone": "+32 486 89 77 42",
-        "birthdate": "JUNE 20th, 1975",
-        "place_of_birth": "Euskirchen, Duitsland",
+        "birthdate": "June 20th, 1975",
+        "place_of_birth": "Euskirchen, Deutschland",
         "family_state": "Divorced",
         "children": "1 daughter",
         "experienced": "24 years, since October 5th 1995",
@@ -18,9 +18,9 @@
             { "language": "English", "skill_level": "very well, I work in software development, often used as neutral language in BE" },
             { "language": "Deutsch", "skill_level": "Sprache der Mutter – geboren und gewohnt in der Nähe von Euskirchen" }
         ],
-        "availabile": "April 1st 2020",
+        "availability": "April 1st 2020",
         "picture": "",
-        "recognitions": "",
+        "recognitions": "MEET - Microsoft Extended Expert Team",
         "profile_summary": [
             "Michael has 24 years of experience in development, analysis, small team and project management of thin- (HTML, JavaScript, ASP, ASP.net (core), CSS) and fat-client (WPF, WinForms) applications using Microsoft development tools.",
             "His background as website and web application developer makes him an excellent alround application developer.  While he was a business owner, of the companies Fusebox (2004-2010) and more recently Cherimoya.be (2017-2018), he was a good business analyst, technical project manager, team leader and dot net developer.",
