@@ -8,9 +8,10 @@ function Profile() {
     useEffect(() => {
         getPersonal().then(_personal => setProfile(_personal));
     }, []);
-
+    
     return (
         <div id="profile">
+            <h3>Profile</h3>
             <div className="row">
                 <div className="col-md-1 col-sm-2 col-xs-12">First name</div>
                 <div className="col-md-11 col-sm-10 col-xs-12">{profile.firstname}</div>

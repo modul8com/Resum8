@@ -8,9 +8,10 @@
     "react-scripts": "3.1.2"
   },
   "scripts": {
-    "start": "run-p start:dev startapi",
+    "start": "run-p setenv start:dev startapi",
     "start:dev": "react-scripts start",
     "startapi": "node tools/apiServer.js",
+    "setenv": "set REACT_APP_API_URL=http://localhost:3001",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
