@@ -1,6 +1,14 @@
 import React from 'react';
 import Profile from './components/Profile';
 import './App.css';
+import moment from 'moment';
+
+function HowManyYearsSinceWorkStart() {
+  let workStartDate = new moment([1995, 10, 5, 9, 0, 0]);
+  let now = new moment();
+  let yearsOfExperience = now.diff(workStartDate, 'years');
+  return yearsOfExperience;
+}
 
 function App() {
   return (
@@ -8,6 +16,7 @@ function App() {
       <header className="App-header">
         <h1>Michael Bruyninckx</h1>
         <h3>Your web (application) developper since 1995</h3>
+        <h6>{HowManyYearsSinceWorkStart()} years of web experiences</h6>
       </header>
       <nav>
         <div className="row">
