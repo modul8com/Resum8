@@ -20,22 +20,22 @@ function App() {
       </header>
       <nav>
         <div className="row">
-          <div className="col-sm-3 col-xs-12">
+          <div className="col-xs-12 col-sm-3">
             <h2>
               <a href="#profile">Profile</a>
             </h2>  
           </div>
-          <div className="col-sm-3 col-xs-12">
+          <div className="col-xs-12 col-sm-3">
             <h2>
               <a href="#experiences">Experiences</a> {" "}
             </h2>  
           </div>
-          <div className="col-sm-3 col-xs-12">
+          <div className="col-xs-12 col-sm-3">
             <h2>
               <a href="#skills">Skills</a> {" "}
             </h2>  
           </div>
-          <div className="col-sm-3 col-xs-12">
+          <div className="col-xs-12 col-sm-3">
             <h2>
               <a href="#contact">Contact</a>
             </h2>  
